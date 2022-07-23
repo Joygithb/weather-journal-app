@@ -1,10 +1,15 @@
 # Weather-Journal App Project
 
-## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+## Project Details
+This project allows users to get current weather conditions by making use of API calls and asynchronous Javascript functions
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+## Process
+This project was created by modifying the `server.js` file and the `website/app.js` file provided by udacity.
+An api call was made to an open weather website, where the current weather of a given location was fetched from.
+Styling was then added to the page with the use of css.
+No modifications was made to the html file.
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+###NOTE
+More styling would still be done to this project to improve the UI
+
+
