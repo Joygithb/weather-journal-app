@@ -9,7 +9,7 @@ An api call was made to an open weather website, where the current weather of a 
 Styling was then added to the page with the use of css.
 No modifications was made to the html file.
 
-###NOTE
+### NOTE
 More styling would still be done to this project to improve the UI
 
 
